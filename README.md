@@ -1,5 +1,7 @@
 # ricoverati-coverband.github.io
-Landing Page for Ricoverati Cover Band (Bologna, Italy)
+Landing Page for Ricoverati Cover Band 
+
+(Bologna, Italy, 2018)
 
 http://www.ricoverati-coverband.it/
 
