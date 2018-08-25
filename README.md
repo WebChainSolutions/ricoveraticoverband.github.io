@@ -9,4 +9,4 @@ http://www.ricoverati-coverband.it/
 
 https://webchainsolutions.github.io/ricoveraticoverband.github.io/
 
-Coded by: <a href="https://github.com/JonnyBanana">Nicolò Saporito</a>
+Coded by: <a href="https://github.com/JonnyBanana">Jonny Banana</a> for <a href="https://github.com/WebChainSolutions">WebChainSolutions</a>
