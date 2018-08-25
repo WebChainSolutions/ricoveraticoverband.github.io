@@ -5,6 +5,6 @@ Landing Page for Ricoverati Cover Band
 
 http://www.ricoverati-coverband.it/
 
-https://WebChainSolutions.github.io/ricoverati-coverband.github.io
+https://webchainsolutions.github.io/ricoverati-coverband.github.io
 
 Coded by: <a href="https://github.com/JonnyBanana">Nicolò Saporito</a>
